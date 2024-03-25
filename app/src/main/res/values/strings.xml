@@ -1,0 +1,39 @@
+<resources>
+    <!-- Application name. -->
+    <string name="app_name">Notebook</string>
+
+    <!-- Splash Layout Text. -->
+    <string name="logo_png_image">Logo png image</string>
+
+    <!-- Progress Dialog Layout Text. -->
+    <string name="please_wait">Please wait…</string>
+
+    <!-- LoginActivity, ProfileFragment, And CreateAccountActivity Layout Text. -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="gmail_address">Gmail Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="need_an_account">Need an account?\u0020</string>
+    <string name="register">Register</string>
+    <string name="already_a_user">Already a user?\u0020</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_id">User ID</string>
+    <string name="logout">Logout</string>
+
+    <!-- MainActivity Layout Text. -->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="add_item_button">Add item button</string>
+    <string name="recent">Recent</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_image">Item Image</string>
+
+    <!-- CreateItemActivity Layout Text. -->
+    <string name="add_image_by_clicking">Add image by clicking\u0020</string>
+    <string name="beside_the_name_field">\u0020beside the name field.</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="finish">Finish</string>
+</resources>

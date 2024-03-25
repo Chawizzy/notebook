@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.NotebookAndroidProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Dark Theme not needed at the moment -->
+    </style>
+</resources>

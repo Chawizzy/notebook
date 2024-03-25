@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "834394752166",
+    "firebase_url": "https://babybuy-3adec-default-rtdb.firebaseio.com",
+    "project_id": "babybuy-3adec",
+    "storage_bucket": "babybuy-3adec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834394752166:android:964e21fe5d13962a00a067",
+        "android_client_info": {
+          "package_name": "com.example.finalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834394752166-ofqq9psm7jm9inhmsist8du30bs43ikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5hHob311mpsyfoHepNR5OynDTAli6Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834394752166-ofqq9psm7jm9inhmsist8du30bs43ikp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834394752166:android:c83b263710d2298300a067",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834394752166-ofqq9psm7jm9inhmsist8du30bs43ikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5hHob311mpsyfoHepNR5OynDTAli6Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834394752166-ofqq9psm7jm9inhmsist8du30bs43ikp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834394752166:android:ebe6bc83e03b401000a067",
+        "android_client_info": {
+          "package_name": "com.example.notebookandroidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834394752166-ofqq9psm7jm9inhmsist8du30bs43ikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5hHob311mpsyfoHepNR5OynDTAli6Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834394752166-ofqq9psm7jm9inhmsist8du30bs43ikp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

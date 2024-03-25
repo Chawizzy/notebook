@@ -1,0 +1,27 @@
+<resources>
+    <style name="Theme.NotebookAndroidProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/normal_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/normal_blue</item>
+
+        <!-- Navigation bar color. -->
+        <item name="android:navigationBarColor">@color/black</item>
+
+        <!-- Window background color. -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Toolbar.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <!-- Tool bar text size. -->
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="BottomNavigation.Text" parent="TextAppearance.AppCompat.Caption">
+        <!-- Bottom navigation text size. -->
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
